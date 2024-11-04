@@ -32,11 +32,11 @@ const description =
  */
 const skillsList = [
   "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "front-end developer",
+  "back-end developer",
+  "full stack developer",
+  "web developer",
+  "software developer",
 ];
 
 /**
